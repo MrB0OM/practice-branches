@@ -1,0 +1,1 @@
+print("Bu yader kodi: 5412")
